@@ -6,7 +6,7 @@ def send_answer():
     
     payload = {
         "task": "mp3",
-        "apikey": API_KEY = "xxx", ## API do platformy AI devs
+        "apikey": "xxx", ## API do platformy AI devs
         "answer": "Łojasiewicza"
     }
     
