@@ -1,0 +1,7 @@
+Artykuł podaje głębokie podstawy na temat wyników generowanej sztucznej inteligencji (AI) w zakresie przetwarzania tekstu, dźwięku i obrazów. Omawia również praktyczne zastosowania generatywnej grafiki AI, obejmujące tworzenie i modyfikację obrazów, grafik i zdjęć. Autor podkreśla, jak sektor projektowy powinien wykorzystać potencjał AI, wymieniając narzędzia takie jak Midjourney, Stable Diffusion, Picthing oraz projekty Pietera Levelsa - 'PhotoAI' i 'InteriorAI'.
+
+Artykuł mówi również o ograniczeniach obecnej generatywnej grafiki AI, wskazując na niemożność tworzenia powtarzalnych wyników, zwłaszcza dla skomplikowanych promptów. Niemniej jednak podkreśla wysoką jakość generowanych obrazów.
+
+Z programistycznego punktu widzenia, autor zauważa, że najważniejsze są dostępność modeli przez interfejs API lub możliwość ich samodzielnego hostingu. W tym kontekście, narzędzia takie jak Replicate, Leonardo.ai i RunPod są szczególnie warte uwagi.
+
+Artykuł rozwija się dalej, omawiając techniki projektowania promptów dla modeli, generowanie grafik na podstawie szablonów i inne zastosowania generatywnej grafiki AI. W końcu autor konkluduje, zwracając uwagę na potencjalne korzyści wynikające z integracji AI z procesami projektowania graficznego i tworzenia produktów. Podkreśla również znaczenie narzędzi takich jak ComfyUI i HTMLCSStoImage.

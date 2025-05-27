@@ -1,0 +1,1 @@
+Nie dostarczono skompresowanej wersji artykułu, co uniemożliwia przeprowadzenie porównawczej analizy tekstu. Proszę o dostarczenie skompresowanej wersji artykułu, abyśmy mogli się na nie

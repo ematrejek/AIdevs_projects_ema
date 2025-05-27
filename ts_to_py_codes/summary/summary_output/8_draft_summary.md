@@ -1,0 +1,1 @@
+Błąd podczas tworzenia wersji roboczej.

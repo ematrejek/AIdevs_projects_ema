@@ -1,0 +1,47 @@
+- Generatywne AI
+- Przetwarzanie tekstu
+- Przetwarzanie audio
+- Interpretacja obrazów
+- Kreacja grafik
+- Praca ze zdjęciami
+- Programowanie
+- HTML Canvas
+- WebGL
+- Narzędzie "Midjourney"
+- Narzędzie "Stable Diffusion"
+- Narzędzie "picthing"
+- Theo — t3.gg
+- Pieter Levels
+- Projekt "PhotoAI"
+- Projekt "InteriorAI"
+- Model językowy "Flux"
+- Narzędzie "ComfyUI"
+- Platforma "Replicate"
+- Narzędzie "Leonardo.ai"
+- Platforma "RunPod"
+- Usługa "htmlcsstoimage"
+- Modeli "niji"
+- Metapromt
+- Post "Comparing AI-generated images two years apart — 2022 vs. 2024"
+- Wideo "02_03_comfy"
+- Blog "eduweb.pl"
+- Lekcja "S01E03 — Limity"
+- Narzędzie "Runway"
+- Narzędzie "Heygen"
+- Narzędzie "Kling AI"
+- Narzędzie "Generative Expand" w Photoshopie
+- Narzędzie "Vision Language Models"
+- Galeria użytkowników narzędzia "Midjourney"
+- Galeria użytkownika `kvovoorde` narzędzia "Midjourney"
+- Model "LLM"
+- Pietera Levels i jego statystyki publikowane na stronie projektu
+- Kilka różnych zestawów awatarów wygenerowanych przy użyciu modelu "niji" oraz "ComfyUI"
+- Zastępowanie twarzy na zdjęciu wygenerowanym za pomocą narzędzia "ComfyUI"
+- Przykładowe szablony okładek wydarzeń i kursów publikowanych na eduweb.pl
+- Przykładowe szablony okładek projektu autora
+- Przykłady użytkowania narzędzia "htmlcsstoimage" do generowania specyficznych szablonów kreacji reklamowych, okładek artykułów na blogu czy newslettera, okładek awatarów
+- Przykłady wykorzystania narzędzia "ComfyUI" do manipulacji obrazem i wpływania na style grafik
+- Wykorzystanie generatywnej grafiki i Vision Language Models do generowania grafik na podstawie szablonów HTML
+- Workflow generowania awatarów na podstawie metapromptu, zawierającego możliwość podmiany opisów postaci, stosujące różne strategie generacji grafik
+- Przykładowe grafiki wygenerowane za pomocą "Midjourney" na podstawie konkretnych promptów
+- Wykorzystanie "Alice" jako referencji do generowania grafik w podobnym stylu za pomocą "ComfyUI"
