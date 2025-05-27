@@ -17,7 +17,7 @@ API_KEY = os.getenv("OPENAI_API_KEY")
 if not API_KEY:
     raise ValueError("Brak klucza API OpenAI w pliku .env")
 
-REPORT_API_KEY = "8eed1983-ee32-479e-8c44-eb85077a62e8" # Zastąp swoim kluczem API
+REPORT_API_KEY = "xxx" ## API do platformy AI devs
 
 API_URL = "https://api.openai.com/v1/chat/completions"
 REPORT_URL = "https://c3ntrala.ag3nts.org/report"
