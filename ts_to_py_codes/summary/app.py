@@ -9,8 +9,6 @@ import json # Chociaż nie jest bezpośrednio używany w promptach, może być p
 load_dotenv()
 
 # Inicjalizacja klienta OpenAI
-# Upewnij się, że masz ustawioną zmienną środowiskową OPENAI_API_KEY
-# lub przekaż klucz API bezpośrednio: client = AsyncOpenAI(api_key="TWÓJ_KLUCZ_API")
 client = AsyncOpenAI(api_key=os.getenv('OPENAI_API_KEY'))
 
 # Pobranie ścieżki do bieżącego katalogu skryptu
