@@ -23,10 +23,13 @@ Repozytorium zawiera następujące główne katalogi:
 
 ### Dodatkowe projekty
 - `ts_to_py_codes` - Konwersje kodu z TypeScript do Pythona
-- `langfuse` - Integracja z Langfuse
-- `text-splitter` - Narzędzie do dzielenia tekstu
-- `memory` - Implementacje systemów pamięci
-- `summary` - Projekty związane z podsumowywaniem tekstu
+    - `/files` - Implementacja asystenta AI z kontekstem konwersacji
+    - `/langfuse` - Integracja z Langfuse
+    - `/embedding` - Implementacja wyszukiwania semantycznego z wykorzystaniem wektorowych baz danych
+    - `langfuse` - Integracja z Langfuse
+    - `text-splitter` - Narzędzie do dzielenia tekstu
+    - `memory` - Implementacje systemów pamięci
+    - `summary` - Projekty związane z podsumowywaniem tekstu
 
 ## Wymagania
 

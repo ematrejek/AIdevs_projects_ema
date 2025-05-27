@@ -18,11 +18,19 @@ Implementacja API czatu z integracją Langfuse, zawierająca:
 - Integracja z Langfuse do analizy
 - Szczegółowa dokumentacja w README.md
 
+### /embedding
+Implementacja wyszukiwania semantycznego z wykorzystaniem wektorowych baz danych:
+- Generowanie embeddingów tekstowych przy użyciu GPT-4
+- Integracja z bazą danych Qdrant
+- Przykładowe wyszukiwanie semantyczne w zbiorze danych
+- Pełna dokumentacja w README.md
+
 ## Wymagania techniczne
 - Python 3.x
 - FastAPI
 - OpenAI API
 - Langfuse (dla wersji z monitoringiem)
+- Qdrant (dla wersji z embeddingami)
 - Pozostałe zależności znajdują się w plikach requirements.txt
 
 ## Instalacja i uruchomienie
