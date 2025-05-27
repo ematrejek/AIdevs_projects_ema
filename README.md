@@ -1,6 +1,6 @@
 # AIdevs Projects
 
-To repozytorium zawiera kolekcję projektów wykonanych w ramach platformy AIdevs, skupiających się na różnych aspektach sztucznej inteligencji i uczenia maszynowego.
+To repozytorium zawiera kolekcję projektów wykonanych w ramach kursu AI_devs 3, skupiających się na różnych aspektach sztucznej inteligencji i uczenia maszynowego.
 
 ## Struktura projektu
 
