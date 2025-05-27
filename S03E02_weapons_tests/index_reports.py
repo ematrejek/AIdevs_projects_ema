@@ -119,7 +119,7 @@ def main():
         # Przygotowanie odpowiedzi do wysłania
         answer = {
             "task": "wektory",
-            "apikey": "8eed1983-ee32-479e-8c44-eb85077a62e8",
+            "apikey": "xxx", ## API do platformy AIdevs
             "answer": theft_date
         }
         print("\nOdpowiedź do wysłania:")
