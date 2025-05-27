@@ -9,7 +9,7 @@ import httpx
 load_dotenv()
 
 # Konfiguracja
-API_KEY = "8eed1983-ee32-479e-8c44-eb85077a62e8"
+API_KEY = "xxx" ## API do platformy AI devs
 OPENAI_API_KEY = os.getenv("OPENAI_API_KEY")
 BASE_URL = "https://c3ntrala.ag3nts.org/data"
 REPORT_URL = "https://c3ntrala.ag3nts.org/report"
